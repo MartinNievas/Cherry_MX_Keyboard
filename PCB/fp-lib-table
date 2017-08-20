@@ -1,5 +1,4 @@
 (fp_lib_table
+  (lib (name Cherry_MX_Keyboard)(type KiCad)(uri "$(KIPRJMOD)/libs/Cherry_MX_Keyboard.pretty")(options "")(descr ""))
   (lib (name cherry)(type Legacy)(uri "$(KIPRJMOD)/libs/cherry.mod")(options "")(descr ""))
-  (lib (name arduino_pro_micro)(type KiCad)(uri "$(KIPRJMOD)/libs/arduino_pro_micro.pretty")(options "")(descr ""))
-  (lib (name R)(type KiCad)(uri "$(KIPRJMOD)/libs/R.pretty")(options "")(descr ""))
 )
